@@ -1,2 +1,2 @@
 # Malik Elbadri
-A frontend developer
+Full stack web developer 
