@@ -4,6 +4,8 @@ Currently working at Curative Healthcare.
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maliklar/)
+[![Online](https://img.shields.io/badge/Online%20Portfolio-%230077B5.svg?logo=globe&logoColor=white)](https://octet8.dev)
+
 
 # 💻 Languages and Tools:
 ![SQL](https://img.shields.io/badge/SQL-Database-45aaf2?style=for-the-badge&logo=sql)
