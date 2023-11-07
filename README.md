@@ -1,13 +1,13 @@
-## 🙎 About Me
+##  About Me
 Hello I am Malik Elbadri a patienate full stack developer intersted in web and mobile applications development using JavaScript.<br>
 Currently working at Curative Healthcare.
 
-## 🌐 Connect with me
+##  Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maliklar/)
 [![Online](https://img.shields.io/badge/Online%20Portfolio-%230077B5.svg?logo=globe&logoColor=white)](https://octet8.dev)
 
 
-# 💻 Languages and Tools:
+#  Languages and Tools:
 ![SQL](https://img.shields.io/badge/SQL-Database-45aaf2?style=for-the-badge&logo=sql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-13aa52?style=for-the-badge&logo=mongodb)
