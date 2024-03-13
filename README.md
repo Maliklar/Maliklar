@@ -1,5 +1,6 @@
 ##  About Me
 Hello I am Malik Elbadri a passionate full stack developer intersted in web and mobile applications development using JavaScript.<br>
+Currently working at Orange as a backend expert.
 
 ##  Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maliklar/)
